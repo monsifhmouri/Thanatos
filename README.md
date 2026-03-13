@@ -1,6 +1,10 @@
 **Thanatos + Nke7 Pc Dyalk**  
 Developed by MONSIF HMOURI (MØNSTR M1ND) Malware Ajmi
 
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=flat-square&logo=telegram)](http://t.me/monstr_m1nd)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=flat-square&logo=instagram)](https://www.instagram.com/httpx.mrmonsif/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/monsifhmouri/)
+
 Thanatos is a multi layered digital Sla7 designed to completely and irreversibly terminate any Windows machine in most scenarios
 **Main Stages of Annihilation**
 - Privilege escalation without a visible UAC prompt (fodhelper method)
