@@ -1,5 +1,5 @@
 **Thanatos + Nke7 Pc Dyalk**  
-**Developed by MONSIF HMOURI (MØNSTR M1ND) Malware Ajmi **
+Developed by MONSIF HMOURI (MØNSTR M1ND) Malware Ajmi
 
 Thanatos is a multi layered digital Sla7 designed to completely and irreversibly terminate any Windows machine in most scenarios
 **Main Stages of Annihilation**
