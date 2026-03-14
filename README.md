@@ -1,4 +1,5 @@
 **Thanatos + Nke7 Pc Dyalk**  
+![MaghSec](my.png)
 Developed by MONSIF HMOURI (MØNSTR M1ND) Malware Ajmi
 
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=flat-square&logo=telegram)](http://t.me/monstr_m1nd)
