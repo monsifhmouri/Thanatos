@@ -1,6 +1,7 @@
 **Thanatos + Nke7 Pc Dyalk**  
 ![t.h.s](my.jpg)
 Developed by MONSIF HMOURI (MØNSTR M1ND) 
+This project is for educational purposes only.
 
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=flat-square&logo=telegram)](http://t.me/monstr_m1nd)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=flat-square&logo=instagram)](https://www.instagram.com/httpx.mrmonsif/)
@@ -24,6 +25,7 @@ Thanatos is a multi layered digital Sla7 designed to completely and irreversibly
 Everything that happens after execution remains 100% under your responsibility
 **Classification:** Extreme Wiper / Boot & Disk Annihilator  
 **Creator...** MONSIF HMOURI – MØNSTR M1ND
+This project is for educational purposes only.
 Digital death – engineered to last byte
 
 رفع الصلاحيات بدون نافذة UAC واضحة (fodhelper)
