@@ -1,6 +1,6 @@
 **Thanatos + Nke7 Pc Dyalk**  
 ![t.h.s](my.jpg)
-Developed by MONSIF HMOURI (MØNSTR M1ND) Malware Ajmi
+Developed by MONSIF HMOURI (MØNSTR M1ND) 
 
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=flat-square&logo=telegram)](http://t.me/monstr_m1nd)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=flat-square&logo=instagram)](https://www.instagram.com/httpx.mrmonsif/)
